@@ -2,4 +2,7 @@
 Test
 this is a test for a programming course at H-Farm
 add,
-this
+this  
+a  
+b  
+c
